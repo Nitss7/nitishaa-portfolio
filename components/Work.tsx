@@ -129,10 +129,6 @@ export default function Work() {
           );
         })}
       </div>
-
-      <p style={{ fontSize: 12, color: "#b8a870", marginTop: "1.5rem" }}>
-        (add repo/live links for the other three projects whenever you have them handy ✦)
-      </p>
     </div>
   );
 }
